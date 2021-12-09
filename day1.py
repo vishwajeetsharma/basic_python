@@ -10,7 +10,8 @@ a = 15.25
 # strings
 # boolean
 
-# array
+# list
+# tuples
 # dict
 
 list1 = [
